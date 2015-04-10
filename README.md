@@ -76,3 +76,9 @@ Once your document is published to RPubs, you should get a unique URL to that do
 #### Submitting Your Assignment
 
 In order to submit this assignment, you must copy the RPubs URL for your completed data analysis document in to the peer assessment question.
+
+Images:
+https://drive.google.com/file/d/0B1cP46hNu2ivbmRwZVpzdllZc2M/view?usp=sharing
+https://drive.google.com/file/d/0B1cP46hNu2ivQV9fenAwcVZ1d0U/view?usp=sharing
+https://drive.google.com/file/d/0B1cP46hNu2ivZHRTTlJJQTVPeHM/view?usp=sharing
+
